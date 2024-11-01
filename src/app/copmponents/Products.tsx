@@ -33,7 +33,7 @@ const Products = () => {
      <div className='border-2 border-black rounded-lg p-2 w-[350px] h-[350px] 
         text-center transition-transform duration-300 hover:scale-105'>
      <Image
-       src="/images/images3.pngg"
+       src="/images/images3.png"
        alt="shop"
        className='rounde'
        width={350}
