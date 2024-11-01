@@ -9,7 +9,7 @@ const Products = () => {
         <div className='border-2 border-black rounded-lg p-2 w-[350px] h-[350px] 
         text-center transition-transform duration-300 hover:scale-105'>
      <Image
-       src="/images/images.jfif"
+       src="/images/images.png"
        alt="shop"
        className='rounde'
        width={350}
@@ -21,7 +21,7 @@ const Products = () => {
      <div className='border-2 border-black rounded-lg p-2 w-[350px] h-[350px] 
         text-center transition-transform duration-300 hover:scale-105'>
      <Image
-       src="/images/images 2.jfif"
+       src="/images/images2.png"
        alt="shop"
        className='rounde'
        width={350}
@@ -33,7 +33,7 @@ const Products = () => {
      <div className='border-2 border-black rounded-lg p-2 w-[350px] h-[350px] 
         text-center transition-transform duration-300 hover:scale-105'>
      <Image
-       src="/images/images 3.jfif"
+       src="/images/images3.pngg"
        alt="shop"
        className='rounde'
        width={350}

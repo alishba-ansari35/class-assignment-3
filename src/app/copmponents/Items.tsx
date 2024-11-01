@@ -9,7 +9,7 @@ const Items = () => {
         <div className='border-2 border-black rounded-lg p-2 w-[209px] h-[210px] 
         text-center transition-transform duration-300 hover:scale-105'>
      <Image
-       src="/images/download.jfif"
+       src="/images/download.png"
        alt="shop"
        className='rounde ' 
        width={209}
@@ -21,7 +21,7 @@ const Items = () => {
      <div className='border-2 border-black rounded-lg p-2 w-[209px] h-[210px] 
         text-center transition-transform duration-300 hover:scale-105'>
      <Image
-       src="/images/download (1).jfif"
+       src="/images/download1.png"
        alt="shop"
        className='rounde'
        width={209}
@@ -33,7 +33,7 @@ const Items = () => {
      <div className='border-2 border-black rounded-lg p-2 w-[200px] h-[210px] 
         text-center transition-transform duration-300 hover:scale-105'>
      <Image
-       src="/images/download2.jfif"
+       src="/images/download2.png"
        alt="shop"
        className='rounde'
        width={200}
